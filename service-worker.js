@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https//oauch.github.io/react-for-beginners/precache-manifest.b6bcbc9661795490ebc6140205b43644.js"
+  "https//oauch.github.io/react-for-beginners/precache-manifest.6b43006d1d97a497b530ab1e93d756ae.js"
 );
 
 workbox.clientsClaim();
